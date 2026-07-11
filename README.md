@@ -1,4 +1,4 @@
-# Directional Ablation
+# Neural Ablation
 
 ## Refusal Direction Replication - Qwen2.5-1B-Instruct
 
